@@ -1,0 +1,1 @@
+This is a simple, no-frills logging framework writting in F#
